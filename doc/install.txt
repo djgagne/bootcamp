@@ -1,0 +1,1 @@
+Installation is just intuitive
