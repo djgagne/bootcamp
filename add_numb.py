@@ -1,3 +1,4 @@
+#Authors: David John and John David
 from adding import add_three
 def add_two(a,b):
     return a+b
