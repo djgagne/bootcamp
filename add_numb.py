@@ -1,6 +1,10 @@
 #Authors: David John and John David
 # and Jing is trying to puch back
 from adding import add_three
+
+def mul_two(a,b):
+    reture a*b
+
 def add_two(a,b):
     return a+b
 
